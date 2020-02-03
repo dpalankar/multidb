@@ -1,2 +1,2 @@
-## MULTIPLE DATABASE application using spring boot
+## Multiple database application using spring boot
 ### Mysql,h2
